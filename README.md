@@ -1,4 +1,4 @@
-# predictive-econometrics
+# Comparison of predictive econometrics techniques
 
 This project was part of a class on predictive econometrics at the University of St.Gallen (2020).
 The aim was to compare the performance (R-Square) of three methods to predict sales volumes for a grocery shop.
